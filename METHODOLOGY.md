@@ -26,7 +26,7 @@ After analyzing data and user feedback from tournaments.tech and Debate Land OTR
 
 ### The OTR Composite Formula (Tournament x Tournament)
 
-$$ OTR_{comp}=(pWP*opWPm)+(\sum RxR_{comp})*(BreakBoost)*(rnpScore)$$
+$$OTR_{comp}=(pWP*opWPm)+(\sum RxR_{comp})*(BreakBoost)*(rnpScore)$$
 
 ---
 **OTR composite:** $OTR_{comp}$
